@@ -2,9 +2,6 @@
 #FE 595 Homework 2
 #received help from this website: https://hackernoon.com/how-to-build-a-web-scraper-with-python-step-by-step-guide-jxkp3yum
 
-#Explain how the try/catch block works
-#do I need to check if the file is creating a new file every time?
-
 import requests
 import os
 import pandas as pd
